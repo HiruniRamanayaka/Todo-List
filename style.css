@@ -1,0 +1,79 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("assests/image1.png");
+    background-color: rgb(191, 203, 222);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container{
+    background: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+    backdrop-filter: blur(50px);
+}
+
+h1{
+    margin-bottom: 40px;
+}
+
+.todo-input{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+input{
+    flex: 1;
+    padding: 8px;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 5px;
+}
+
+button{
+    background: #28a745;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 5px;
+}
+
+button :hover{
+    background: #218838;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+    background: #f9f9f9;
+    padding: 8px;
+    margin-top: 8px;
+    border-radius: 4px;
+}
+
+.completed{
+    text-decoration: line-through;
+    color: #888;
+}
+
+.delete{
+    background-color: rgb(185, 42, 42);
+}
