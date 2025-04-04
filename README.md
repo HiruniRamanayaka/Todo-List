@@ -22,7 +22,7 @@ It allows users to **add, complete, and delete tasks**, with local storage suppo
 3. Start adding tasks! 🎯
 
 ## **Demo Video**
-[Watch the Demo Video](./assests/Demo.mp4)
+[Watch the Demo Video](./assests/videos/Demo.mp4)
 
 ## **Screenshots**
-![Todo App UI](#) (./assests/Screenshot.jpg)# Todo-List
+![Todo App UI](./assests/Screenshot.jpg)
