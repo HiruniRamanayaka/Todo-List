@@ -21,6 +21,9 @@ It allows users to **add, complete, and delete tasks**, with local storage suppo
 2. Open `index.html` in a browser.
 3. Start adding tasks! 🎯
 
+## **Live Demo**
+[🔗 View Live Project](#) (https://hiruniramanayaka.github.io/Todo-List/)
+
 ## **Demo Video**
 [Watch the Demo Video](https://youtu.be/EyD6oyYgqLk)
 
